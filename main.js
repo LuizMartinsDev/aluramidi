@@ -7,7 +7,7 @@ function tocaSom(cont) {
   }
   
 }
-console.log('teste')
+
 const listaDeTeclas = document.querySelectorAll(".tecla");
 
 for (var i = 0; i < listaDeTeclas.length; i++) {
